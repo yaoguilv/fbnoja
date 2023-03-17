@@ -1,0 +1,19 @@
+{
+  "name": "@yaoguilv/fbnoja",
+  "version": "1.0.0",
+  "description": "测试GitHub Package QuickStart",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaoguilv/fbnoja.git"
+  },
+  "author": "cx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaoguilv/fbnoja/issues"
+  },
+  "homepage": "https://github.com/yaoguilv/fbnoja#readme"
+}
